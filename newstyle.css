@@ -1,0 +1,53 @@
+@charset "UTF-8";
+/* CSS Document */
+
+@font-face {
+	font-family: analogue; src:
+	url(Analogue55Regular.otf)
+	;}
+
+body{background-image: url(images/background-image.jpg);}
+
+img{display:block; margin-left:auto; margin-right:auto; text-align:center;}
+
+#content{width:900px;background-color:rgba(242,225,225,.85);margin:auto; top:10px; right:0; bottom:0; left:0;}
+#evil{width:900px; height:4000px; background-color:rgba(242,225,225,.85);margin:auto; top:10px; right:0; bottom:0; left:0;}
+#audio{width:900px; height:1300px; background-color:rgba(242,225,225,.85);margin:auto; top:10px; right:0; bottom:0; left:0;}
+#video{width:900px; height:3000px; background-color:rgba(242,225,225,.85);margin:auto; top:10px; right:0; bottom:0; left:0;}
+#theorymaking{width:900px; height:5000px;background-color:rgba(242,225,225,.85);margin:auto; top:10px; right:0; bottom:0; left:0;}
+#paper{width:900px; height:2100px;background-color:rgba(242,225,225,.85);margin:auto; top:10px; right:0; bottom:0; left:0;}
+#assigments{width:900px; height:1300px;background-color:rgba(242,225,225,.85);margin:auto; top:10px; right:0; bottom:0; left:0;}
+#final{width:900px; height:1400px;background-color:rgba(242,225,225,.85);margin:auto; top:10px; right:0; bottom:0; left:0;}
+
+
+#header{display:block; margin-left:auto; margin-right:auto; padding-top:2%; padding-bottom:2%;}
+
+body{margin-top:10px; padding-top:5%}
+
+.content_float {
+	font-family: analogue;
+	float:right;
+	max-width:600px; padding-top: 20px; padding-right: 70px;}
+.theorymaking
+{font-family: analogue;
+	float:right;
+	max-width:600px; padding-top: 20px; padding-right: 70px;}
+
+#para1{margin-left:0px; padding-top: 0px; font-family:analogue; font-size:20px;}
+
+#para2{margin-left:130px; font-family:analogue; font-size: 18px;}
+
+#para3{margin-left:80px; font-family:analogue; font-size: 20px;}
+
+#para4{margin-left:100px; font-family:analogue; font-size: 16px;}
+
+#navigation{padding-top:3%; max-width:285px;}
+
+#cc{text-align:center; margin-left:270px;}
+
+#photos a {
+	float: left;
+	padding: 10px;
+}
+span{font-family:analogue; font-size:15px;}
+.backpage{padding-right:220px;}
